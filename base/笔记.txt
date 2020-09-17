@@ -1,7 +1,10 @@
 一、print_input
-
-1.1 格式化输出  print(f'{a}')简单高效       # 高效装包pip install keras -i http://pypi.douban.com/simple --trusted-host pypi.douban.com
-1.2 快捷键
+# 高效装包pip install keras -i http://pypi.douban.com/simple --trusted-host pypi.douban.com
+1.1 格式化输出  a = '***'
+               print(f'what?{a}')   # 简单高效 # 结果-what?***                       
+               print('what?%s'%a)  # a是一个东西  # 结果-what?***
+               print('what?{}'.format(a))  # 结果-what?***
+1.2 jupyter快捷键
     # pycharm
     1.2.1 # :ctrl+/
     1.2.2 split_line: ctrl + Enter
