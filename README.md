@@ -4,6 +4,8 @@ Basic knowledge -- base(数据类型、类、包、学生管理系统)
 
 连接mysql -- connect_Mysql.ipynb
 
+py4fi2nd/py4fi2nd-master -- python to finance 一书代码，包含python基础、numpy,适合金融学习
+
 文件（json,txt,excel,csv）读存 -- file读写 + read_file(含文件)
 
 Numpy -- test_numpy.ipynb
