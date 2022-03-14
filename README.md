@@ -12,4 +12,6 @@ Numpy -- test_numpy.ipynb
 
 Pandas -- test_pandas.ipynb
 
+matplotlib -- test_matplotlib.ipynb
+
 html解析+爬虫 -- 网页_文本解析.ipynb + 爬虫项目.ipynb
